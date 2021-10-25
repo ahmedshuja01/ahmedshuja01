@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Muhammad Ahmed Shuja</h1>
 <h3 align="center">NED'21 | Contributor at Kaggle | Data Scientist</h3>
 
-- 🔭 I’m currently working on [Data Science projects on Kaggle](https://www.kaggle.com/ahmedshuja)
+- 🔭 I’m currently working on [EDA and Supervised Machine learning algorithms projects on Kaggle](https://www.kaggle.com/ahmedshuja)
 
 - 🌱 I’m currently learning **Deep learning, NLP**
 
