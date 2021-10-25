@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedshuja01](https://github.com/ahmedshuja01)
 
-- 💬 Ask me about **Python| R | SQL| Machine learning | Statistics | Probability | Linear Algebra **
+- 💬 Ask me about **Python | R | SQL| Machine learning | Statistics | Probability | Linear Algebra **
 
 - 📫 How to reach me **ahmed_shuja02@hotmail.com**
 
