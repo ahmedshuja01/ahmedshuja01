@@ -12,6 +12,7 @@
 - 📫 How to reach me **ahmed_shuja02@hotmail.com**
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!AsBRYfKtp0URkmvpGfaxIdJRKaZa?e=RVSMl6](https://1drv.ms/b/s!AsBRYfKtp0URkmvpGfaxIdJRKaZa?e=RVSMl6)
+- Linkedin: www.linkedin.com/in/ahmed-shuja-46492017a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
