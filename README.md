@@ -68,6 +68,7 @@
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup"/></a>
   <a href="https://www.nltk.org/" target="_blank"><img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/></a>
   <a href="https://python.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/></a>
+  <a href="https://regex101.com/" target="_blank"><img src="https://img.shields.io/badge/Regex-FF6B6B?style=for-the-badge&logo=regex&logoColor=white" alt="Regex"/></a>
 </p>
 
 <h4 align="left">5. Cloud & Development Tools:</h4>
