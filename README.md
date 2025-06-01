@@ -3,7 +3,7 @@
 <h3 align="center">MSc AI and Data Science Student | Turning data into action with ML, LLMs, and Growth Analytics.</h3>
 
 - 🧭 I’m currently focused on **deepening my expertise in machine learning through advanced model diagnostics, optimization techniques, and hyperparameter tuning.**  
-  In parallel, I’m actively exploring modern automation and AI tools to streamline both technical workflows and personal productivity — aiming to enhance efficiency across day-to-day operations and self-management.
+  At the same time, I’m exploring intelligent automation and AI-driven tools to improve both technical workflows and personal productivity — aiming to boost efficiency in daily tasks and self-management.
 
 - 👯 I’m looking to collaborate on **Real-world AI-driven projects — especially those involving applied AI techniques like generative models and intelligent automation, advanced data analytics for actionable insights, and machine learning focused on model optimization and predictive solutions**
 
