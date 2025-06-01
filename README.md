@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Real-world AI-driven projects — especially those involving applied AI techniques like generative models and intelligent automation, advanced data analytics for actionable insights, and machine learning focused on model optimization and predictive solutions**
 
-- 💬 Ask me about **Data Analytics & BI | AI-driven automation | Product & user analytics | ML optimization | Python data pipelines**
+- 💬 Ask me about **Data Analytics & BI | AI-Driven Automation | Product & User Analytics | ML Model Development and Optimization | Python Data Pipelines | Algorithm Design, Build & Deployment | Web Analytics Tools**
 
 - 📫 How to reach me **ahmed.shuja4001@gmail.com**
 
