@@ -5,9 +5,11 @@
 - 🧭 I’m currently focused on **deepening my expertise in machine learning through advanced model diagnostics and optimization techniques.**  
   At the same time, I’m exploring intelligent automation and AI-driven tools to improve both technical workflows and personal productivity — aiming to boost efficiency in daily tasks and self-management.
 
-- 👯 I’m looking to collaborate on **Real-world AI-driven projects — especially those involving applied AI techniques like generative models and intelligent automation, advanced data analytics for actionable insights, and machine learning focused on model optimization and predictive solutions**
+- 👯 I’m looking to collaborate on **Real-world AI-driven projects — especially those involving applied AI techniques like generative models and intelligent automation, advanced data analytics for actionable     
+  insights, and machine learning focused on model optimization and predictive solutions**
 
-- 💬 Ask me about **Data Analytics & BI | AI-Driven Automation | Product & User Analytics | ML Model Development and Optimization | Python Data Pipelines | Algorithm Design, Build & Deployment | Web Analytics Tools**
+- 💬 Ask me about **Data Analytics & BI | AI-Driven Automation | Product & User Analytics | ML Model Development and Optimization | Python Data Pipelines | Algorithm Design, Build & Deployment | Web Analytics 
+  Tools**
 
 - 📫 How to reach me **ahmed.shuja4001@gmail.com**
 
