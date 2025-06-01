@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Real-world AI-driven projects — especially those involving applied AI techniques like generative models and intelligent automation, advanced data analytics for actionable insights, and machine learning focused on model optimization and predictive solutions**
 
-- 💬 Ask me about **Machine learning | data analysis | AI automation | product analytics | growth strategy | Python workflows**
+- 💬 Ask me about **Data Analytics & BI | AI-driven automation | Product & user analytics | ML optimization | Python data pipelines**
 
 - 📫 How to reach me **ahmed.shuja4001@gmail.com**
 
-- 📄 Know about my experiences [Ahmed CV](https://drive.google.com/file/d/1DDsZdYxwLsJaMYwk-Yiodyu8qsn0q73k/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Ahmed CV](https://drive.google.com/file/d/1DDsZdYxwLsJaMYwk-Yiodyu8qsn0q73k/view?usp=sharing)
 
 - ⚡ Fun fact **I use AI to simplify my life — from automating my grocery list to planning my study, gym, and coding hours. My calendar runs smarter than most bots.**
 
