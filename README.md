@@ -59,6 +59,8 @@
   <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio"/></a>
   <a href="https://mixpanel.com/" target="_blank"><img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel"/></a>
   <a href="https://analytics.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Google Analytics"/></a>
+  <a href="https://search.google.com/search-console" target="_blank"><img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console"/></a>
+
 </p>
 
 <h4 align="left">4. Web Scraping & Text Processing:</h4>
