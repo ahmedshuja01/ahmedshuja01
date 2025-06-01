@@ -5,8 +5,6 @@
 - 🧭 I’m currently focused on **deepening my expertise in machine learning through advanced model diagnostics, optimization techniques, and hyperparameter tuning.**  
   In parallel, I’m actively exploring modern automation and AI tools to streamline both technical workflows and personal productivity — aiming to enhance efficiency across day-to-day operations and self-management.
 
-- 🌱 I’m currently learning **Advanced machine learning optimization techniques, model tuning, and exploring AI-powered automation tools to streamline both technical workflows and daily productivity.**
-
 - 👯 I’m looking to collaborate on **Real-world AI & machine learning projects — especially those involving model optimization, generative AI, or applied NLP**
 
 - 🤝 I’m looking for help with **Mastering advanced machine learning optimization techniques and discovering the right AI and automation tools to enhance both technical workflows and personal productivity.**
