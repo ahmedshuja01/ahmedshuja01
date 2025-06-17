@@ -79,7 +79,7 @@
 
 <h4 align="left">6. Automation Tools:</h4>
 <p align="left">
-  <a href="https://zapier.com" target="_blank"><img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/></a>
+  <a href="https://make.com" target="_blank"><img src="https://img.shields.io/badge/Make-6366F1?style=for-the-badge&logo=make&logoColor=white" alt="Make"/></a>
 </p>
 
 
