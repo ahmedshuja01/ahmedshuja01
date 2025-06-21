@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmed.shuja4001@gmail.com**
 
-- 📄 Know about my experiences [Muhammad Ahmed CV](https://drive.google.com/file/d/1DDsZdYxwLsJaMYwk-Yiodyu8qsn0q73k/view?usp=sharing)
+- 📄 Know about my experiences [Muhammad Ahmed CV](https://docs.google.com/document/d/1WsuMtjkKQVpLElq3okUJvD4QOoqwy1cMCv0aXJGtVx4/edit?usp=sharing)
 
 - ⚡ Fun fact **I use AI to simplify my life — from automating my grocery list to planning my study, gym, and coding hours. My calendar runs smarter than most bots.**
 
